@@ -1,0 +1,16 @@
+# Add these to your .gitignore file
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
+venv/
+ENV/
+.DS_Store
+.idea/
+.vscode/
+*.pth
+*.pt
+*.bin
+outputs/
